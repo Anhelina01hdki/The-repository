@@ -1,5 +1,25 @@
 {
   "users": [
-
+    {
+      "id": 3,
+      "name": "Yeva",
+      "surname": "Nesterenko",
+      "photo_url": "https://img.magnific.com/free-photo/lavender-field-sunset-near-valensole_268835-3910.jpg?semt=ais_hybrid&w=740&q=80",
+      "balance": 1500
+    },
+    {
+      "id": 33,
+      "name": "Anna",
+      "surname": "Shevchenko",
+      "photo_url": "https://i0.wp.com/picjumbo.com/wp-content/uploads/river-in-the-forest-free-smartphone-wallpaper-free-photo.jpeg?h=800&quality=80",
+      "balance": 1450
+    },
+      {
+        "id": 333,
+        "name": "Sasha",
+        "surname": "Kovaleno",
+        "photo_url": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp",
+        "balance": 1550
+      }
   ]
 }
