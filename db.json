@@ -1,5 +1,25 @@
 {
   "users": [
-
+    {
+      "id": 4,
+      "name": "Den",
+      "surname": "Dan",
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfbjV7Q1zFxFkQoQOZKFk2STgWj2A5kGHCbyrKw3nwrw&s=10",
+      "balance": 5000
+    },
+    {
+      "id": 12,
+      "name": "Ben",
+      "surname": "Ban",
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0maOLJ9j31VumNnnFIgvl1A6pDxuaDIyoeDsQ7sU2yg&s=10",
+      "balance": 1200
+    },
+    {
+      "id": 36,
+      "name": "Pen",
+      "surname": "Pan",
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqvFZ3_a5CChB2fWtKKB34DSeq-dg1IIayZdODRuCR1g&s=10",
+      "balance": 3400
+    }
   ]
 }
