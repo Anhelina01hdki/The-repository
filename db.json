@@ -58,25 +58,37 @@
       "balance": 15000
     },
     {
-      "id": 33,
+      "id": 44,
       "name": "Jimmy",
       "surname": "Donaldson",
       "photo_url": "https://sm.pcmag.com/t/pcmag_au/review/g/google-pho/google-photos_vm2z.1200.jpg",
       "balance": 150000
+    }
+  ],
+  "products": [
+    {
+      "id": 100,
+      "name": "cheese",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExObYHKugxNPS38a3da9NvDPRJ6GX8bMR_pgx2skfn--FRcrk8WEuLdg&s=10",
+      "color": "yellow",
+      "price": 111,
+      "buyer_id": 11
     },
     {
-      "id": 44,
-      "name": "Ivan",
-      "surname": "Franko",
-      "photo_url": "https://sm.pcmag.com/t/pcmag_au/review/g/google-pho/google-photos_vm2z.1200.jpg",
-      "balance": 150
+      "id": 200,
+      "name": "milk",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExObYHKugxNPS38a3da9NvDPRJ6GX8bMR_pgx2skfn--FRcrk8WEuLdg&s=10",
+      "color": "white",
+      "price": 222,
+      "buyer_id": 22
     },
     {
-      "id": 55,
-      "name": "Jonh",
-      "surname": "Simpson",
-      "photo_url": "https://sm.pcmag.com/t/pcmag_au/review/g/google-pho/google-photos_vm2z.1200.jpg",
-      "balance": 15
+      "id": 300,
+      "name": "bread",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExObYHKugxNPS38a3da9NvDPRJ6GX8bMR_pgx2skfn--FRcrk8WEuLdg&s=10",
+      "color": "brown",
+      "price": 333,
+      "buyer_id": 44
     }
   ]
 }
