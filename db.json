@@ -113,6 +113,30 @@
       "color": "yellow",
       "price": 55,
       "buyer_id": 333
+    },
+    {
+      "id": 1,
+      "name": "product1",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQ8VaC8Njg6_4mj-2KTlGgQjVEoSCwlV4BdszwxZlIw&s=10",
+      "color": "white",
+      "price": "99$",
+      "buyer_id": 4
+    },
+    {
+      "id": 2,
+      "name": "product2",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC8pirE8DLbuGxUwYk7vixD-zDY9oFSB_ZxX0aFilutQ&s=10",
+      "color": "red",
+      "price": "99.90$",
+      "buyer_id": 12
+    },
+    {
+      "id": 3,
+      "name": "product3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP3hmqXvM4Q5uuPb2sfen_A2gQ_FJqhbvTQDWMtNzWxQ&s=10",
+      "color": "orange",
+      "price": "99.99$",
+      "buyer_id": 36
     }
   ]
 }
