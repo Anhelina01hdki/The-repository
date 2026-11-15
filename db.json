@@ -14,12 +14,47 @@
       "photo_url": "https://i0.wp.com/picjumbo.com/wp-content/uploads/river-in-the-forest-free-smartphone-wallpaper-free-photo.jpeg?h=800&quality=80",
       "balance": 1450
     },
-      {
-        "id": 333,
-        "name": "Sasha",
-        "surname": "Kovaleno",
-        "photo_url": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp",
-        "balance": 1550
-      }
+    {
+      "id": 333,
+      "name": "Sasha",
+      "surname": "Kovaleno",
+      "photo_url": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp",
+      "balance": 1550
+    },
+    {
+      "id": 11,
+      "name": "Taras",
+      "surname": "Shevchenko",
+      "photo_url": "https://sm.pcmag.com/t/pcmag_au/review/g/google-pho/google-photos_vm2z.1200.jpg",
+      "balance": 1500
+    },
+    {
+      "id": 22,
+      "name": "Lesya",
+      "surname": "Ukrainka",
+      "photo_url": "https://sm.pcmag.com/t/pcmag_au/review/g/google-pho/google-photos_vm2z.1200.jpg",
+      "balance": 15000
+    },
+    {
+      "id": 33,
+      "name": "Jimmy",
+      "surname": "Donaldson",
+      "photo_url": "https://sm.pcmag.com/t/pcmag_au/review/g/google-pho/google-photos_vm2z.1200.jpg",
+      "balance": 150000
+    },
+    {
+      "id": 44,
+      "name": "Ivan",
+      "surname": "Franko",
+      "photo_url": "https://sm.pcmag.com/t/pcmag_au/review/g/google-pho/google-photos_vm2z.1200.jpg",
+      "balance": 150
+    },
+    {
+      "id": 55,
+      "name": "Jonh",
+      "surname": "Simpson",
+      "photo_url": "https://sm.pcmag.com/t/pcmag_au/review/g/google-pho/google-photos_vm2z.1200.jpg",
+      "balance": 15
+    }
   ]
 }
